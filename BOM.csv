@@ -1,0 +1,18 @@
+Ref,Qnty,Value,Cmp name,Footprint,Description,Manufacturer,Mfr. Part #,Package,Vendor
+"C1, C2",2,10pF X7R,C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,Ceramic capacitor,KEMET,C0805C100K3RACTU,0805,Mouser
+"C3, C4",2,4.7uF X7R,C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,Ceramic capacitor,KEMET,C0805C475K3PAC7210,0805,Mouser
+C5,1,1uF X7R,C,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,Ceramic capacitor,KEMET,C0805C105K3RACTU,0805,Mouser
+D1,1,,D_Schottky,Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder,Schottky diode,KYOCERA AVX,SD0805S020S1R0,0805,Mouser
+"D2, D3",2,,LED_YLW,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,Light emitting diode,Wurth Elektronik,150080YS75000,0805,Mouser
+D4,1,,LED_RED,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,Light emitting diode,Wurth Elektronik,150080SS75000,0805,Mouser
+J1,1,,USB_B_Micro,Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal,USB Micro Type B connector,Amphenol FCI,10118194-0011LF,,Mouser
+J2,1,,AVR-ISP-6,Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical,Atmel 6-pin ISP connector,TE Connectivity,1761681-1,,Mouser
+"J3, J4",2,,Conn_01x15_Pin,Connector_PinHeader_2.54mm:PinHeader_1x15_P2.54mm_Vertical,"Generic header, single row, 01x15, 2.54mm pitch",Samtec,TSW-115-23-T-S,,Mouser
+R1,1,10K 1/4 W,R,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor,YAGEO,AC0805FR-7W10KL,0805,Mouser
+"R2, R3, R4",3,200R 1/4 W,R,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,Resistor,YAGEO,RC0805FR-7W200RL,0805,Mouser
+SW1,1,,Pushbutton,Button_Switch_THT:SW_PUSH_6mm,"Push button switch, generic, two pins",Apem,ADTS63KV,,Mouser
+"SW2, SW3",2,,SPDT,devboard:slide_switch,"Switch, single pole double throw",CUI Devices,MSS-102545-28A-D,,Mouser
+U1,1,,ATmega328P-P,Package_DIP:DIP-28_W7.62mm,"20MHz, 32kB Flash, 2kB SRAM, 1kB EEPROM, DIP-28",Microchip,ATMEGA328P-P,DIP-28,Mouser
+U2,1,,MCP2221A-I/ST,Package_SO:TSSOP-14_4.4x5mm_P0.65mm,"USB to I2C/UART Protocol Converter with GPIO, TSSOP-14",Microchip,MCP2221A-I/ST,TSSOP-14,Mouser
+U3,1,,MCP1825S,Package_TO_SOT_SMD:SOT-223-3_TabPin2,"500mA, Low-Voltage, Low Quiescent Current LDO Regulator",Microchip,MCP1825S,SOT-223-3,Mouser
+Y1,1,16MHz,Crystal,Crystal:Crystal_HC49-U_Vertical,Two pin crystal,Vishay/Dale,XT9S20ANA16M ,HC49,Mouser
