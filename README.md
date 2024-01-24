@@ -15,6 +15,6 @@ This is my own custom development board, made for the ATmega328P. I created this
 - 6-pin ISP header (i.e. for AVRISP or the Pololu AVR programmer)
 
 ## Drawings
-- [Schematic](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/printouts/Schematic.pdf)
-- PCB [front](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/printouts/PCB%20Front.pdf)
-and [back](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/printouts/PCB%20Back.pdf)
+- [Schematic](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/documents/Schematic.pdf)
+- PCB [front](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/documents/PCB%20Front.pdf)
+and [back](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/documents/PCB%20Back.pdf)
