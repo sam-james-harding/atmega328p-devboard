@@ -5,7 +5,8 @@ This is my own custom development board, made for the ATmega328P. This serves as
 ![PCB Image](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/documents/pcb.png)
 
 ## Features
-- Micro-USB B connection: the board can be powered through this connection, and, using the MCP2221A IC, serial communication can be conducted between the host computer and the ATmega328P
+- Micro-USB B connection providing power and allowing serial communication
+- USB-to-UART functionality via the MCP2221A IC
 - Regulated 3.3V supply: power, supplied either through the USB connection or the VIN pin, can be supplied at up to 6V (using the MCP1825 voltage regulator)
 - 16MHz crystal
 - Switches for both power and USB-to-serial functionality
