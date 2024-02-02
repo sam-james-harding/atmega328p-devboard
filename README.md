@@ -2,7 +2,7 @@
 
 This is my own custom development board, made for the ATmega328P. I created this both as learning experience (in PCB design and in soldering SMD components), and as a practical device to assist in prototyping.
 
-![PCB Image](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/documents/pcb.png)
+![PCB Image](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/rev_1/documents/pcb.png)
 
 ## Features
 - Micro-USB B connection providing power and allowing serial communication
@@ -15,6 +15,6 @@ This is my own custom development board, made for the ATmega328P. I created this
 - 6-pin ISP header (i.e. for AVRISP or the Pololu AVR programmer)
 
 ## Drawings
-- [Schematic](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/documents/Schematic.pdf)
-- PCB [front](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/documents/PCB%20Front.pdf)
-and [back](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/documents/PCB%20Back.pdf)
+- [Schematic](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/rev_1/documents/Schematic.pdf)
+- PCB [front](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/rev_1/documents/PCB%20Front.pdf)
+and [back](https://github.com/sam-james-harding/atmega328p-devboard/blob/main/rev_1/documents/PCB%20Back.pdf)
