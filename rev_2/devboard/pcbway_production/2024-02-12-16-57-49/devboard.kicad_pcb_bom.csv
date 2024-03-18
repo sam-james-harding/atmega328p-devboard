@@ -1,0 +1,19 @@
+﻿designator,quantity,value,pack,mpn,mount_type
+"C1, C2",2,10pF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,smt
+"C3, C4",2,4.7uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,smt
+C5,1,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,,smt
+D1,1,D_Schottky,D_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,smt
+"D2, D3",2,YELLOW,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,smt
+D4,1,LED_RED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,,smt
+J1,1,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal,,smt
+J2,1,AVR-ISP-6,PinHeader_2x03_P2.54mm_Vertical,,tht
+"J3, J4",2,Conn_01x15_Pin,PinHeader_1x15_P2.54mm_Vertical,,tht
+R1,1,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,smt
+"R2, R3, R4",3,470R,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,smt
+"R5, R6",2,5K1,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,,smt
+SW1,1,Pushbutton,SW_Push_1P1T_NO_CK_KMR2,,smt
+"SW2, SW3",2,SPDT,slide_switch,,tht
+U1,1,ATmega328P-A,TQFP-32_7x7mm_P0.8mm,,smt
+U2,1,MCP2221A-I/ST,TSSOP-14_4.4x5mm_P0.65mm,,smt
+U3,1,MCP1825S,SOT-223-3_TabPin2,,smt
+Y1,1,Crystal_GND24,Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering,,smt
